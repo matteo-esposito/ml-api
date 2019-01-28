@@ -33,10 +33,10 @@ Enter values that you wish to test with the model
 
 ```
 [
-	{"Age": 85, "Sex": "female", "Embarked": "S"},
-	{"Age": 22, "Sex": "male", "Embarked": "C"},
-	{"Age": 29, "Sex": "female", "Embarked": "C"},
-	{"Age": 55, "Sex": "male", "Embarked": "S"}
+    {"Age": 85, "Sex": "female", "Embarked": "S"},
+    {"Age": 22, "Sex": "male", "Embarked": "C"},
+    {"Age": 29, "Sex": "female", "Embarked": "C"},
+    {"Age": 55, "Sex": "male", "Embarked": "S"}
 ]
 ```
 
@@ -47,3 +47,6 @@ Get prediction
     "prediction": "[1, 0, 1, 0]"
 }
 ```
+
+![Screenshot](https://imgur.com/a/jdmujmq)
+
