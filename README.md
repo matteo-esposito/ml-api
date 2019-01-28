@@ -48,5 +48,5 @@ Get prediction
 }
 ```
 
-![Screenshot](https://imgur.com/a/jdmujmq)
+![Screenshot](https://imgur.com/TEEkpMw)
 
