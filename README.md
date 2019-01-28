@@ -14,21 +14,31 @@ survival outcomes through logistic regression classifier.
 ## Usage
 Clone repo and go into directory.
 
-```git clone https://github.com/matteo-esposito/ml-api.git```
+```
+git clone https://github.com/matteo-esposito/ml-api.git
+```
 
-```cd ml-api```
+```
+cd ml-api
+```
 
 Run model
 
-```python3 model.py```
+```
+python3 model.py
+```
 
 Start flask app
 
-```python3 api.py```
+```
+python3 api.py
+```
 
 Go into postman API client and enter the url of the app and go to the `predict` path
 
-```POST  localhost:12345/predict```
+```
+POST  localhost:12345/predict
+```
 
 Enter values that you wish to test with the model
 
@@ -48,6 +58,4 @@ Get prediction
     "prediction": "[1, 0, 1, 0]"
 }
 ```
-
-![Screenshot](https://imgur.com/TEEkpMw)
 
